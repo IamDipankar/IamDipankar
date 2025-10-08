@@ -20,12 +20,12 @@ I love turning data into insights and ideas into working prototypes that make a 
 Used **Google Earth Engine**, **OSM**, and **NASA Data**, **LLM**, **FastAPI**, **Leaflet**, **Folium** to analyze NDVI, AQI, and temperature data.  
 - Conducted **spatial analysis** and created an **interactive web visualization**.
 
-### 🕵️ AI Agent using LangChain & Flowise
+### 🕵️ [AI Agent using LangChain & Flowise](https://prakash-ai-w9lz.vercel.app/)
 Built a **fact-checking AI agent** using LangChain.  
 - Integrated **SerpAPI, Google Search API, Brave Search** for data retrieval.  
 - Used **Ollama and Groq API** as LLM models.
 
-### 🧬 Image Processing with ResNet
+### 🧬 [Image Processing with ResNet] (https://dl.acm.org/doi/10.1145/3704522.3704541)
 Developed an intrusion detection model by **color mapping network traffic data**,  
 published in the **ACM Archive (NSysS ’24 Proceedings)**.  
 - Applied **ResNet neural network** for threat detection.
