@@ -25,7 +25,7 @@ Built a **fact-checking AI agent** using LangChain.
 - Integrated **SerpAPI, Google Search API, Brave Search** for data retrieval.  
 - Used **Ollama and Groq API** as LLM models.
 
-### 🧬 [Image Processing with ResNet] (https://dl.acm.org/doi/10.1145/3704522.3704541)
+### 🧬 [Image Processing with ResNet](https://dl.acm.org/doi/10.1145/3704522.3704541)
 Developed an intrusion detection model by **color mapping network traffic data**,  
 published in the **ACM Archive (NSysS ’24 Proceedings)**.  
 - Applied **ResNet neural network** for threat detection.
