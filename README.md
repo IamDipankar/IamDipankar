@@ -1,21 +1,24 @@
 # 👋 Hi, I'm Dipankar Mitra
 
-🎓 **AI Research Enthusiast | Data Science Explorer | Innovator**  
-📍 Dhaka, Bangladesh  
+🎓 **AI Research Enthusiast | Data Science Explorer | Innovator | Web App Developer**
 💡 Passionate about creating impactful solutions with Artificial Intelligence, Data Science, and Deep Learning.
 
 ---
 
 ## 🧠 About Me
 
-I'm an undergraduate student at **Bangladesh University of Engineering and Technology (BUET)**, majoring in **Engineering**.  
-My interests lie in **AI research, data processing, and intelligent systems**, with hands-on experience in **LLMs, AI agents, Image Processing, and Web & Android App Development**.
+I'm an undergraduate student at **Bangladesh University of Engineering and Technology (BUET)**.  
+My interests lie in **AI Solutions, Large Language Models, data processing, and intelligent systems**, with hands-on experience in **LLMs, AI agents, Image Processing, and Web & Android App Development**.
 
 I love turning data into insights and ideas into working prototypes that make a difference.
 
 ---
 
 ## 🚀 Projects
+
+### 🌍 [URBANALYSIS](https://github.com/IamDipankar/nasa-space-app-web) (Geographic Data Processing for urban analysis)
+Used **Google Earth Engine**, **OSM**, and **NASA Data**, **LLM**, **FastAPI**, **Leaflet**, **Folium** to analyze NDVI, AQI, and temperature data.  
+- Conducted **spatial analysis** and created an **interactive web visualization**.
 
 ### 🕵️ AI Agent using LangChain & Flowise
 Built a **fact-checking AI agent** using LangChain.  
@@ -26,10 +29,6 @@ Built a **fact-checking AI agent** using LangChain.
 Developed an intrusion detection model by **color mapping network traffic data**,  
 published in the **ACM Archive (NSysS ’24 Proceedings)**.  
 - Applied **ResNet neural network** for threat detection.
-
-### 🌍 Geographic Data Processing (NASA Competition)
-Used **Google Earth Engine**, **OSM**, and **NASA Data** to analyze NDVI, AQI, and temperature data.  
-- Conducted **spatial analysis** and created an **interactive web visualization**.
 
 ---
 
@@ -71,5 +70,3 @@ Used **Google Earth Engine**, **OSM**, and **NASA Data** to analyze NDVI, AQI, a
 - 💌 **Email:** dipankar.mitra4854@gmail.com  
 
 ---
-
-⭐️ *“I aim to create AI-driven solutions that push boundaries and inspire innovation.”*
