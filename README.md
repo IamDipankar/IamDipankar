@@ -1,16 +1,11 @@
 # 👋 Hi, I'm Dipankar Mitra
 
 🎓 **AI Research Enthusiast | Data Science Explorer | Innovator | Web App Developer**
-💡 Passionate about creating impactful solutions with Artificial Intelligence, Data Science, and Deep Learning.
+💡 Passionate about creating impactful solutions with Artificial Intelligence, Data Science, and Deep Learning. My interests lie in **AI Solutions, Large Language Models, data processing, and intelligent systems**, with hands-on experience in **LLMs, AI agents, Image Processing, and Web & Android App Development**.
 
+I love turning data into insights and ideas into working prototypes.
 ---
 
-## 🧠 About Me
-
-I'm an undergraduate student at **Bangladesh University of Engineering and Technology (BUET)**.  
-My interests lie in **AI Solutions, Large Language Models, data processing, and intelligent systems**, with hands-on experience in **LLMs, AI agents, Image Processing, and Web & Android App Development**.
-
-I love turning data into insights and ideas into working prototypes that make a difference.
 
 ---
 
