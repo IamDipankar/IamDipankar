@@ -29,11 +29,11 @@ published in the **ACM Archive (NSysS ’24 Proceedings)**.
 
 ## 🧩 Skills
 
-**Programming:** Python | JavaScript | Dart (Flutter) | MATLAB 
-**Data & AI:** PyTorch, LangChain, Pandas, NumPy, Matplotlib, Scikit-learn, LangGraph 
+**Programming:** Python | JavaScript | Dart (Flutter) | MATLAB  
+**Data & AI:** PyTorch, LangChain, Pandas, NumPy, Matplotlib, Scikit-learn, LangGraph  
 **Development:** Web & Android App Design, Backend Systems, Big Data Processing  
-**OS:** Windows | Ubuntu (Linux)
-**Cloud Platforms:** Google Cloud Platform (GCP) | Render | Koyeb | Vercel | Vast.ai
+**OS:** Windows | Ubuntu (Linux)  
+**Cloud Platforms:** Google Cloud Platform (GCP) | Render | Koyeb | Vercel | Vast.ai  
 
 ---
 
