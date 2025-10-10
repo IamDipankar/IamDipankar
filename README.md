@@ -58,10 +58,9 @@ published in the **ACM Archive (NSysS ’24 Proceedings)**.
 ## 🔗 Connect with Me
 
 - 📘 [LinkedIn](https://www.linkedin.com/in/dipankarmitra)  
-- 🧠 [ResearchGate](https://www.researchgate.net/profile/Dipankar-Mitra)  
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=YourScholarID)  
-- 📊 [Kaggle](https://www.kaggle.com/dipankarmitra)  
-- 🐦 [Twitter](https://twitter.com/IamDipankar)  
+- 🧠 [ResearchGate](https://www.researchgate.net/profile/Dipankar-Mitra-3)  
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=THwLriwAAAAJ&hl=en&authuser=1)  
+- 📊 [Kaggle](https://www.kaggle.com/dipankarthekohda)
 - 💌 **Email:** dipankar.mitra4854@gmail.com  
 
 ---
